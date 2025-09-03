@@ -1,6 +1,6 @@
 *.DS_Store
 /.idea/
-/config.yml
+#/config.yml
 /build/
 /apipark
 .gitlab-ci.yml
